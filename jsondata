@@ -13,18 +13,18 @@
           "msrp": 75.00,
           "qtyOnHand": 100,
           "qtyOnBackOrder": 10,
-          "description": "High-performance running shoes designed for maximum comfort and durability."
+          "description": "running shoes designed for comfort and durability."
         },
         {
           "id": "P002",
           "brandId": 1,
-          "productName": "Adidas Soccer Shoes",
+          "productName": "Adidas Cleats",
           "graphicName": "adidas_soccer_shoes.png",
           "costPrice": 55.00,
           "msrp": 80.00,
           "qtyOnHand": 50,
           "qtyOnBackOrder": 5,
-          "description": "Durable soccer shoes perfect for playing on any surface with excellent traction."
+          "description": "cleats perfect for playing on any surface with."
         },
         {
           "id": "P003",
@@ -35,7 +35,7 @@
           "msrp": 30.00,
           "qtyOnHand": 200,
           "qtyOnBackOrder": 20,
-          "description": "Comfortable and stylish T-shirt made from high-quality materials for everyday wear."
+          "description": "Comfortable T-shirt for everyday wear."
         },
         {
           "id": "P004",
@@ -46,7 +46,7 @@
           "msrp": 60.00,
           "qtyOnHand": 150,
           "qtyOnBackOrder": 15,
-          "description": "Lightweight track pants designed for optimal movement and comfort during exercise."
+          "description": "track pants designed for exercise."
         },
         {
           "id": "P005",
@@ -57,7 +57,7 @@
           "msrp": 90.00,
           "qtyOnHand": 80,
           "qtyOnBackOrder": 8,
-          "description": "Versatile training jacket that provides warmth and breathability during workouts."
+          "description": "training jacket that provides warmth during workouts."
         }
       ]
     },
@@ -74,7 +74,7 @@
           "msrp": 100.00,
           "qtyOnHand": 60,
           "qtyOnBackOrder": 6,
-          "description": "High-quality gaming headset with immersive sound and a comfortable fit for long sessions."
+          "description": "gaming headset with a comfortable fit for long sessions."
         },
         {
           "id": "P007",
@@ -85,7 +85,7 @@
           "msrp": 120.00,
           "qtyOnHand": 40,
           "qtyOnBackOrder": 4,
-          "description": "Durable mechanical keyboard with customizable RGB lighting and responsive keys."
+          "description": "mechanical keyboard with customizable RGB lighting and responsive keys."
         },
         {
           "id": "P008",
@@ -96,7 +96,7 @@
           "msrp": 75.00,
           "qtyOnHand": 90,
           "qtyOnBackOrder": 9,
-          "description": "Precision gaming mouse with adjustable DPI settings and ergonomic design for comfort."
+          "description": "Precision gaming mouse with adjustable DPI settings."
         },
         {
           "id": "P009",
@@ -107,7 +107,7 @@
           "msrp": 1500.00,
           "qtyOnHand": 20,
           "qtyOnBackOrder": 2,
-          "description": "High-performance gaming laptop with powerful hardware and sleek design."
+          "description": "High-performance gaming laptop with powerful hardware."
         },
         {
           "id": "P010",
@@ -157,7 +157,7 @@
           "msrp": 70.00,
           "qtyOnHand": 80,
           "qtyOnBackOrder": 8,
-          "description": "Ergonomic gaming mouse with precision tracking and customizable buttons."
+          "description": "gaming mouse with precision tracking and customizable buttons."
         },
         {
           "id": "P014",
@@ -179,7 +179,7 @@
           "msrp": 50.00,
           "qtyOnHand": 90,
           "qtyOnBackOrder": 9,
-          "description": "Convenient wireless mouse with long battery life and smooth tracking."
+          "description": "wireless mouse with long battery life and smooth tracking."
         }
       ]
     }
