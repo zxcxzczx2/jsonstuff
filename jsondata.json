@@ -1,187 +1,168 @@
-{
-  "brands": [
+ [
     {
-      "brandId": 1,
+      "id": "P001",  
       "brandName": "Adidas",
-      "products": [
-        {
-          "id": "P001",
-          "brandId": 1,
-          "productName": "Adidas Running Shoes",
-          "graphicName": "adidas_shoes.png",
-          "costPrice": 50.00,
-          "msrp": 75.00,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 10,
-          "description": "running shoes designed for comfort and durability."
-        },
-        {
-          "id": "P002",
-          "brandId": 1,
-          "productName": "Adidas Cleats",
-          "graphicName": "adidas_soccer_shoes.png",
-          "costPrice": 55.00,
-          "msrp": 80.00,
-          "qtyOnHand": 50,
-          "qtyOnBackOrder": 5,
-          "description": "cleats perfect for playing on any surface with."
-        },
-        {
-          "id": "P003",
-          "brandId": 1,
-          "productName": "Adidas T-Shirt",
-          "graphicName": "adidas_tshirt.png",
-          "costPrice": 20.00,
-          "msrp": 30.00,
-          "qtyOnHand": 200,
-          "qtyOnBackOrder": 20,
-          "description": "Comfortable T-shirt for everyday wear."
-        },
-        {
-          "id": "P004",
-          "brandId": 1,
-          "productName": "Adidas Track Pants",
-          "graphicName": "adidas_track_pants.png",
-          "costPrice": 40.00,
-          "msrp": 60.00,
-          "qtyOnHand": 150,
-          "qtyOnBackOrder": 15,
-          "description": "track pants designed for exercise."
-        },
-        {
-          "id": "P005",
-          "brandId": 1,
-          "productName": "Adidas Training Jacket",
-          "graphicName": "adidas_training_jacket.png",
-          "costPrice": 60.00,
-          "msrp": 90.00,
-          "qtyOnHand": 80,
-          "qtyOnBackOrder": 8,
-          "description": "training jacket that provides warmth during workouts."
-        }
-      ]
+      "productName": "Adidas Running Shoes",
+      "graphicName": "adidas_shoes.png",
+      "costPrice": 50.00,
+      "msrp": 75.00,
+      "qtyOnHand": 100,
+      "qtyOnBackOrder": 10,
+      "description": "running shoes designed for comfort and durability."
     },
     {
-      "brandId": 2,
+      "id": "P002",
+      "brandName": "Adidas",
+      "productName": "Adidas Cleats",
+      "graphicName": "adidas_soccer_shoes.png",
+      "costPrice": 55.00,
+      "msrp": 80.00,
+      "qtyOnHand": 50,
+      "qtyOnBackOrder": 5,
+      "description": "cleats perfect for playing on any surface with."
+    },
+    {
+      "id": "P003",
+      "brandName": "Adidas",
+      "productName": "Adidas T-Shirt",
+      "graphicName": "adidas_tshirt.png",
+      "costPrice": 20.00,
+      "msrp": 30.00,
+      "qtyOnHand": 200,
+      "qtyOnBackOrder": 20,
+      "description": "Comfortable T-shirt for everyday wear."
+    },
+    {
+      "id": "P004",
+      "brandName": "Adidas",
+      "productName": "Adidas Track Pants",
+      "graphicName": "adidas_track_pants.png",
+      "costPrice": 40.00,
+      "msrp": 60.00,
+      "qtyOnHand": 150,
+      "qtyOnBackOrder": 15,
+      "description": "track pants designed for exercise."
+    },
+    {
+      "id": "P005",
+      "brandName": "Adidas",
+      "productName": "Adidas Training Jacket",
+      "graphicName": "adidas_training_jacket.png",
+      "costPrice": 60.00,
+      "msrp": 90.00,
+      "qtyOnHand": 80,
+      "qtyOnBackOrder": 8,
+      "description": "training jacket that provides warmth during workouts."
+    },
+    {
+      "id": "P006",
       "brandName": "Razer",
-      "products": [
-        {
-          "id": "P006",
-          "brandId": 2,
-          "productName": "Razer Gaming Headset",
-          "graphicName": "razer_headset.png",
-          "costPrice": 70.00,
-          "msrp": 100.00,
-          "qtyOnHand": 60,
-          "qtyOnBackOrder": 6,
-          "description": "gaming headset with a comfortable fit for long sessions."
-        },
-        {
-          "id": "P007",
-          "brandId": 2,
-          "productName": "Razer Mechanical Keyboard",
-          "graphicName": "razer_keyboard.png",
-          "costPrice": 80.00,
-          "msrp": 120.00,
-          "qtyOnHand": 40,
-          "qtyOnBackOrder": 4,
-          "description": "mechanical keyboard with customizable RGB lighting and responsive keys."
-        },
-        {
-          "id": "P008",
-          "brandId": 2,
-          "productName": "Razer Gaming Mouse",
-          "graphicName": "razer_mouse.png",
-          "costPrice": 50.00,
-          "msrp": 75.00,
-          "qtyOnHand": 90,
-          "qtyOnBackOrder": 9,
-          "description": "Precision gaming mouse with adjustable DPI settings."
-        },
-        {
-          "id": "P009",
-          "brandId": 2,
-          "productName": "Razer Gaming Laptop",
-          "graphicName": "razer_laptop.png",
-          "costPrice": 1200.00,
-          "msrp": 1500.00,
-          "qtyOnHand": 20,
-          "qtyOnBackOrder": 2,
-          "description": "High-performance gaming laptop with powerful hardware."
-        },
-        {
-          "id": "P010",
-          "brandId": 2,
-          "productName": "Razer Gaming Mouse Pad",
-          "graphicName": "razer_mouse_pad.png",
-          "costPrice": 20.00,
-          "msrp": 30.00,
-          "qtyOnHand": 100,
-          "qtyOnBackOrder": 10,
-          "description": "Smooth and durable gaming mouse pad optimized for precision and speed."
-        }
-      ]
+      "productName": "Razer Gaming Headset",
+      "graphicName": "razer_headset.png",
+      "costPrice": 70.00,
+      "msrp": 100.00,
+      "qtyOnHand": 60,
+      "qtyOnBackOrder": 6,
+      "description": "gaming headset with a comfortable fit for long sessions."
     },
     {
-      "brandId": 3,
+      "id": "P007",
+      "brandName": "Razer",
+      "productName": "Razer Mechanical Keyboard",
+      "graphicName": "razer_keyboard.png",
+      "costPrice": 80.00,
+      "msrp": 120.00,
+      "qtyOnHand": 40,
+      "qtyOnBackOrder": 4,
+      "description": "mechanical keyboard with customizable RGB lighting and responsive keys."
+    },
+    {
+      "id": "P008",
+      "brandName": "Razer",
+      "productName": "Razer Gaming Mouse",
+      "graphicName": "razer_mouse.png",
+      "costPrice": 50.00,
+      "msrp": 75.00,
+      "qtyOnHand": 90,
+      "qtyOnBackOrder": 9,
+      "description": "Precision gaming mouse with adjustable DPI settings."
+    },
+    {
+      "id": "P009",
+      "brandName": "Razer",
+      "productName": "Razer Gaming Laptop",
+      "graphicName": "razer_laptop.png",
+      "costPrice": 1200.00,
+      "msrp": 1500.00,
+      "qtyOnHand": 20,
+      "qtyOnBackOrder": 2,
+      "description": "High-performance gaming laptop with powerful hardware."
+    },
+    {
+      "id": "P010",
+      "brandName": "Razer",
+      "productName": "Razer Gaming Mouse Pad",
+      "graphicName": "razer_mouse_pad.png",
+      "costPrice": 20.00,
+      "msrp": 30.00,
+      "qtyOnHand": 100,
+      "qtyOnBackOrder": 10,
+      "description": "Smooth and durable gaming mouse pad optimized for precision and speed."
+    },
+    {
+      "id": "P011",
       "brandName": "Logitech",
-      "products": [
-        {
-          "id": "P011",
-          "brandId": 3,
-          "productName": "Logitech Wireless Headset",
-          "graphicName": "logitech_headset.png",
-          "costPrice": 60.00,
-          "msrp": 90.00,
-          "qtyOnHand": 70,
-          "qtyOnBackOrder": 7,
-          "description": "Comfortable wireless headset with clear audio and long battery life."
-        },
-        {
-          "id": "P012",
-          "brandId": 3,
-          "productName": "Logitech Mechanical Keyboard",
-          "graphicName": "logitech_keyboard.png",
-          "costPrice": 75.00,
-          "msrp": 110.00,
-          "qtyOnHand": 50,
-          "qtyOnBackOrder": 5,
-          "description": "High-performance mechanical keyboard with customizable backlighting and responsive keys."
-        },
-        {
-          "id": "P013",
-          "brandId": 3,
-          "productName": "Logitech Gaming Mouse",
-          "graphicName": "logitech_mouse.png",
-          "costPrice": 45.00,
-          "msrp": 70.00,
-          "qtyOnHand": 80,
-          "qtyOnBackOrder": 8,
-          "description": "gaming mouse with precision tracking and customizable buttons."
-        },
-        {
-          "id": "P014",
-          "brandId": 3,
-          "productName": "Logitech Webcam",
-          "graphicName": "logitech_webcam.png",
-          "costPrice": 50.00,
-          "msrp": 75.00,
-          "qtyOnHand": 60,
-          "qtyOnBackOrder": 6,
-          "description": "High-definition webcam with clear video quality and easy setup."
-        },
-        {
-          "id": "P015",
-          "brandId": 3,
-          "productName": "Logitech Wireless Mouse",
-          "graphicName": "logitech_wireless_mouse.png",
-          "costPrice": 30.00,
-          "msrp": 50.00,
-          "qtyOnHand": 90,
-          "qtyOnBackOrder": 9,
-          "description": "wireless mouse with long battery life and smooth tracking."
-        }
-      ]
+      "productName": "Logitech Wireless Headset",
+      "graphicName": "logitech_headset.png",
+      "costPrice": 60.00,
+      "msrp": 90.00,
+      "qtyOnHand": 70,
+      "qtyOnBackOrder": 7,
+      "description": "Comfortable wireless headset with clear audio and long battery life."
+    },
+    {
+      "id": "P012",
+      "brandName": "Logitech",
+      "productName": "Logitech Mechanical Keyboard",
+      "graphicName": "logitech_keyboard.png",
+      "costPrice": 75.00,
+      "msrp": 110.00,
+      "qtyOnHand": 50,
+      "qtyOnBackOrder": 5,
+      "description": "High-performance mechanical keyboard with customizable backlighting and responsive keys."
+    },
+    {
+      "id": "P013",
+      "brandName": "Logitech",
+      "productName": "Logitech Gaming Mouse",
+      "graphicName": "logitech_mouse.png",
+      "costPrice": 45.00,
+      "msrp": 70.00,
+      "qtyOnHand": 80,
+      "qtyOnBackOrder": 8,
+      "description": "gaming mouse with precision tracking and customizable buttons."
+    },
+    {
+      "id": "P014",
+      "brandName": "Logitech",
+      "productName": "Logitech Webcam",
+      "graphicName": "logitech_webcam.png",
+      "costPrice": 50.00,
+      "msrp": 75.00,
+      "qtyOnHand": 60,
+      "qtyOnBackOrder": 6,
+      "description": "High-definition webcam with clear video quality and easy setup."
+    },
+    {
+      "id": "P015",
+      "brandName": "Logitech",
+      "productName": "Logitech Wireless Mouse",
+      "graphicName": "logitech_wireless_mouse.png",
+      "costPrice": 30.00,
+      "msrp": 50.00,
+      "qtyOnHand": 90,
+      "qtyOnBackOrder": 9,
+      "description": "wireless mouse with long battery life and smooth tracking."
     }
   ]
-}
+
