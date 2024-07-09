@@ -1,0 +1,187 @@
+{
+  "brands": [
+    {
+      "brandId": 1,
+      "brandName": "Adidas",
+      "products": [
+        {
+          "id": "P001",
+          "brandId": 1,
+          "productName": "Adidas Running Shoes",
+          "graphicName": "adidas_shoes.png",
+          "costPrice": 50.00,
+          "msrp": 75.00,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 10,
+          "description": "High-performance running shoes designed for maximum comfort and durability."
+        },
+        {
+          "id": "P002",
+          "brandId": 1,
+          "productName": "Adidas Soccer Shoes",
+          "graphicName": "adidas_soccer_shoes.png",
+          "costPrice": 55.00,
+          "msrp": 80.00,
+          "qtyOnHand": 50,
+          "qtyOnBackOrder": 5,
+          "description": "Durable soccer shoes perfect for playing on any surface with excellent traction."
+        },
+        {
+          "id": "P003",
+          "brandId": 1,
+          "productName": "Adidas T-Shirt",
+          "graphicName": "adidas_tshirt.png",
+          "costPrice": 20.00,
+          "msrp": 30.00,
+          "qtyOnHand": 200,
+          "qtyOnBackOrder": 20,
+          "description": "Comfortable and stylish T-shirt made from high-quality materials for everyday wear."
+        },
+        {
+          "id": "P004",
+          "brandId": 1,
+          "productName": "Adidas Track Pants",
+          "graphicName": "adidas_track_pants.png",
+          "costPrice": 40.00,
+          "msrp": 60.00,
+          "qtyOnHand": 150,
+          "qtyOnBackOrder": 15,
+          "description": "Lightweight track pants designed for optimal movement and comfort during exercise."
+        },
+        {
+          "id": "P005",
+          "brandId": 1,
+          "productName": "Adidas Training Jacket",
+          "graphicName": "adidas_training_jacket.png",
+          "costPrice": 60.00,
+          "msrp": 90.00,
+          "qtyOnHand": 80,
+          "qtyOnBackOrder": 8,
+          "description": "Versatile training jacket that provides warmth and breathability during workouts."
+        }
+      ]
+    },
+    {
+      "brandId": 2,
+      "brandName": "Razer",
+      "products": [
+        {
+          "id": "P006",
+          "brandId": 2,
+          "productName": "Razer Gaming Headset",
+          "graphicName": "razer_headset.png",
+          "costPrice": 70.00,
+          "msrp": 100.00,
+          "qtyOnHand": 60,
+          "qtyOnBackOrder": 6,
+          "description": "High-quality gaming headset with immersive sound and a comfortable fit for long sessions."
+        },
+        {
+          "id": "P007",
+          "brandId": 2,
+          "productName": "Razer Mechanical Keyboard",
+          "graphicName": "razer_keyboard.png",
+          "costPrice": 80.00,
+          "msrp": 120.00,
+          "qtyOnHand": 40,
+          "qtyOnBackOrder": 4,
+          "description": "Durable mechanical keyboard with customizable RGB lighting and responsive keys."
+        },
+        {
+          "id": "P008",
+          "brandId": 2,
+          "productName": "Razer Gaming Mouse",
+          "graphicName": "razer_mouse.png",
+          "costPrice": 50.00,
+          "msrp": 75.00,
+          "qtyOnHand": 90,
+          "qtyOnBackOrder": 9,
+          "description": "Precision gaming mouse with adjustable DPI settings and ergonomic design for comfort."
+        },
+        {
+          "id": "P009",
+          "brandId": 2,
+          "productName": "Razer Gaming Laptop",
+          "graphicName": "razer_laptop.png",
+          "costPrice": 1200.00,
+          "msrp": 1500.00,
+          "qtyOnHand": 20,
+          "qtyOnBackOrder": 2,
+          "description": "High-performance gaming laptop with powerful hardware and sleek design."
+        },
+        {
+          "id": "P010",
+          "brandId": 2,
+          "productName": "Razer Gaming Mouse Pad",
+          "graphicName": "razer_mouse_pad.png",
+          "costPrice": 20.00,
+          "msrp": 30.00,
+          "qtyOnHand": 100,
+          "qtyOnBackOrder": 10,
+          "description": "Smooth and durable gaming mouse pad optimized for precision and speed."
+        }
+      ]
+    },
+    {
+      "brandId": 3,
+      "brandName": "Logitech",
+      "products": [
+        {
+          "id": "P011",
+          "brandId": 3,
+          "productName": "Logitech Wireless Headset",
+          "graphicName": "logitech_headset.png",
+          "costPrice": 60.00,
+          "msrp": 90.00,
+          "qtyOnHand": 70,
+          "qtyOnBackOrder": 7,
+          "description": "Comfortable wireless headset with clear audio and long battery life."
+        },
+        {
+          "id": "P012",
+          "brandId": 3,
+          "productName": "Logitech Mechanical Keyboard",
+          "graphicName": "logitech_keyboard.png",
+          "costPrice": 75.00,
+          "msrp": 110.00,
+          "qtyOnHand": 50,
+          "qtyOnBackOrder": 5,
+          "description": "High-performance mechanical keyboard with customizable backlighting and responsive keys."
+        },
+        {
+          "id": "P013",
+          "brandId": 3,
+          "productName": "Logitech Gaming Mouse",
+          "graphicName": "logitech_mouse.png",
+          "costPrice": 45.00,
+          "msrp": 70.00,
+          "qtyOnHand": 80,
+          "qtyOnBackOrder": 8,
+          "description": "Ergonomic gaming mouse with precision tracking and customizable buttons."
+        },
+        {
+          "id": "P014",
+          "brandId": 3,
+          "productName": "Logitech Webcam",
+          "graphicName": "logitech_webcam.png",
+          "costPrice": 50.00,
+          "msrp": 75.00,
+          "qtyOnHand": 60,
+          "qtyOnBackOrder": 6,
+          "description": "High-definition webcam with clear video quality and easy setup."
+        },
+        {
+          "id": "P015",
+          "brandId": 3,
+          "productName": "Logitech Wireless Mouse",
+          "graphicName": "logitech_wireless_mouse.png",
+          "costPrice": 30.00,
+          "msrp": 50.00,
+          "qtyOnHand": 90,
+          "qtyOnBackOrder": 9,
+          "description": "Convenient wireless mouse with long battery life and smooth tracking."
+        }
+      ]
+    }
+  ]
+}
